@@ -1,0 +1,17 @@
+body{background-color: grey; }
+
+#canvas{
+  display: block;
+  margin: 35px auto;
+  border: 2px solid black;
+}
+html{
+  color: ;
+}
+h2{text-align:center;}
+.dc{
+  color: white;
+}
+.ki{
+  color:black;
+}
